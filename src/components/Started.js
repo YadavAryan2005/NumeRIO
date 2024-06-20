@@ -255,7 +255,7 @@ const Started = () => {
         <div className='bg-white shadow-lg p-5 relative -top-5'>
           <img src={Started6} alt='' />
         </div>
-        <div className='bg-white shadow-lg p-5'>
+        <div className='bg-white shadow-lg p-5 123'>
           <img src={Started7} alt='' />
         </div>
       </div>
